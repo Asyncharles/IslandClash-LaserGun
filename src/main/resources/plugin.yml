@@ -1,0 +1,6 @@
+name: IslandClashGadget
+version: 0.0.1
+main: net.aksyo.GadgetMain
+author: Charles
+commands:
+  laser:
